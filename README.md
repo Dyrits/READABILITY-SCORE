@@ -1,32 +1,25 @@
 # Readability Score
 
-## About this project
+A Java program that estimates the readability score of a text, as a JetBrains Academy project.
 
-### Related study plan
-[JetBrains Academy](https://hyperskill.org/) | Java Developer
+## About The Project
 
-### Description (by JetBrains Academy)
+From the original README: this project is part of the [JetBrains Academy](https://hyperskill.org/) Java Developer study plan. From the project description (by JetBrains Academy): the program determines how difficult a text is and for which age it is most suitable, estimating difficulty from the symbol count, the average number of words per sentence, and readability formulas that can also take syllables and letters into account. Learning outcomes: calling programs from the command line, and practice with regular expressions and the Math class.
 
-#### About
-Everyone has their own personal reading history, and as we grow up, we are able to comprehend more and more complicated texts. But how do you estimate the level of difficulty of a given text, and how do you teach a computer to do that? In this project, you will find it out: write a program that determines how difficult the text is and for which age it is most suitable.
-
-#### Learning outcomes
-Learn to call programs from the command-line and get more experience with using regexes and Math class.
-
-#### What you’ll do and what you’ll learn
-- Input a phrase or a sentence for the program to determine its difficulty level based on the symbol count.
-- Apply your knowledge of advanced strings, arrays and regular expressions: determine how difficult the text is judging by the average count of words in the sentences.
-- Add a readability score based on a special formula: it will estimate the difficulty levels of larger bodies of texts uploaded from a file.
-- More parameters can be taken into account: for example, you can consider syllables and letters. Enable the program to base its estimation on those parameters altogether.
-
-### Technologies
-- Java
-
-### Details | Comments
-- This project has been made from scratch following specific instructions.  
+From the author's notes: the project was made from scratch following specific instructions.
 
 ### Status
-Completed
 
-#### Last update
-11/10/2020 (README | 11/10/2020)
+Completed, per the original README.
+
+## Built With
+
+- Java
+
+## License
+
+No license file is present in this repository.
+
+## Contact
+
+Dylan J. Gerrits - [GitHub](https://github.com/Dyrits)
